@@ -1,6 +1,7 @@
 
 import { useState } from "react";
 import "../Avatar.css"
+import "../src/style/style.css"
 
 function Avatar ({avatar}) {
 
