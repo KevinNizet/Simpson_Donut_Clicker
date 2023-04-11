@@ -16,6 +16,12 @@ button {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
 }
+
+button:hover {
+  transition: transform 0.3s;
+  transform: scale(1.1);
+}
+
 p {
   font-size: large;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
